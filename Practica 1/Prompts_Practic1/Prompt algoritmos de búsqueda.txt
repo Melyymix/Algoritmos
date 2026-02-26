@@ -1,0 +1,19 @@
+Prompt algoritmos de búsqueda :
+
+Estoy trabajando en un análisis comparativo de algoritmos de búsqueda (lineal, binaria e indexada) en C++. Cuento con tres códigos fuente: Lineal1.cpp, Binaria2.cpp e Indexada3.cpp. Cada uno implementa su respectivo algoritmo y mide el número de comparaciones realizadas en el peor caso.
+
+Necesito generar un programa en C++ que automatice las pruebas para diferentes tamaños de arreglo:
+10, 100, 1000, 10000, 100000, 1000000 y 10000000 de elementos. Para cada tamaño, se debe medir:
+
+Tiempo de ejecución (en microsegundos o milisegundos).
+
+Número de comparaciones realizadas.
+
+Memoria aproximada utilizada.
+
+Además, debo presentar los resultados en tablas y gráficas (pueden ser simuladas en texto o con datos exportables). También debe incluirse un análisis breve del comportamiento empírico de cada algoritmo en comparación con su complejidad teórica.
+
+El programa debe estar bien estructurado, comentado y listo para compilar con -std=c++11. Si es posible, que los resultados se muestren en consola de forma clara y ordenada.
+
+Agradezco que la solución sea completa, funcional y educativa, para poder presentarla como parte de un trabajo escolar.
+

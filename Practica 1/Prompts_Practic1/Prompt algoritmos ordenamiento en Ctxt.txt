@@ -1,0 +1,3 @@
+Necesito que me ayudes a hacer  los algoritmos de ordenamiento donde necesito el bubble el insertion y el merge, necesito que sea en c y me ayude a calcular el tiempo que tarda en ejecutarse y tambien la memoria que ocupa cada operación
+
+Cada uno de ellos va a tener que hacer sus respectivos ordenamientos con los casos donde el arreglo es de 10,100,1000,10000,100000,10000000,100000000, llena los arreglos con un for porfavor.
